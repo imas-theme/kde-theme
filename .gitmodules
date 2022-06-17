@@ -1,0 +1,3 @@
+[submodule "materia-kde"]
+	path = materia-kde
+	url = https://github.com/PapirusDevelopmentTeam/materia-kde.git

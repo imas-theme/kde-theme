@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=IMAS Dark
+Name=IMAS Dark
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Author=suienzan
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-Name=com.github.suienzan.imas-dark
